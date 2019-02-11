@@ -1,0 +1,9 @@
+div[class^="col-md"]:nth-child(1){
+    background-color: whitesmoke;
+}
+div[class^="col-md"]:nth-child(2){
+     background-color: rebeccapurple;
+}
+div[class^="col-md"]:nth-child(3){
+    background-color: darkred;
+}
